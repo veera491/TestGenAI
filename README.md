@@ -1,2 +1,2 @@
 # TestGenAI
-Testing Repo 1
+Testing Repo
